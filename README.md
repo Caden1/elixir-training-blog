@@ -11,8 +11,8 @@ Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 Create a blog for the purposes of learning Elixir and Phoenix
 
 ## Technology Used
-Elixir
-Phoenix
+* Elixir
+* Phoenix
 
 ## Contributors
 https://github.com/Caden1

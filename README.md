@@ -14,7 +14,7 @@ Create a blog for the purposes of learning Elixir and Phoenix
 Elixir
 Phoenix
 
-# Contributors
+## Contributors
 https://github.com/Caden1
 
 Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
